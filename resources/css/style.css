@@ -1,0 +1,53 @@
+body {
+  text-align: center;
+  font-family: "helvetica", sans-serif;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+
+a {
+  color: white;
+  font-size: 18px;
+}
+
+h3 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+h5 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background: url('/users/cuinn/desktop/broadway/resources/images/the-flatiron-building.png');
+}
+
+p {
+  font-size: 14px;
+}
+
+.top {
+  background: url('/users/cuinn/desktop/broadway/resources/images/the-flatiron-building.png')
+}
+
+#copyright {
+  font-size: 11px;
+  color: white;
+  font-weight: normal;
+}
+
+#footer {
+  text-align: left;
+  background-color: dimgray;
+  display: block;
+}
